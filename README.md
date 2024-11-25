@@ -8,7 +8,7 @@
   - C/C++ extension pack
   - CMake
   - CMake tools
-  - Compiler toolchain:MSVC (ref. to https://code.visualstudio.com/docs/cpp/config-msv)
+  - Compiler toolchain:MSVC (ref. to [https://code.visualstudio.com/docs/cpp/config-msv](https://visualstudio.microsoft.com/de/downloads/))
  
 ## Build
 - Add folder to Workspace in VS-code
